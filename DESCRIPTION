@@ -26,7 +26,6 @@ Imports:
     RColorBrewer,
     cowplot,
     methods,
-    ComplexHeatmap,
     RSpectra,
     Rcpp,
     RcppEigen,
